@@ -1,0 +1,22 @@
+Site CSS Tricks
+	a complete guide to flexbox
+	a complete guide to grid
+
+
+YouTube
+	Kevin Powell 
+
+
+EMMET
+	section>(div>h1+p*2)+(div>img+p)
+	nav>img+ul>li.elem$*5>a
+
+HERITAGE
+
+	> cible les enfants directs
+	+ cible le 1er element qui suit
+	~ cible tous les elements qui suivent
+	() grouper
+	$ chiffre incrémenter
+	.class ajouter une classe
+	#id ajouter un id
